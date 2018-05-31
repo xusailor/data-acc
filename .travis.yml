@@ -7,3 +7,5 @@ script:
     - test -f bin/amd64/fakewarp
     - make container
     - make test
+    - cd docker-slurm
+    - ./update_burstbuffer.sh
