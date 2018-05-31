@@ -1,7 +1,7 @@
 # Data Accelerator
 
-[![Build Status](https://travis-ci.org/JohnGarbutt/pfsaccel.svg?branch=master)](https://travis-ci.org/JohnGarbutt/data-acc)
-[![Go Report Card](https://goreportcard.com/badge/github.com/johngarbutt/pfsaccel)](https://goreportcard.com/report/github.com/johngarbutt/data-acc)
+[![Build Status](https://travis-ci.org/JohnGarbutt/data-acc.svg?branch=master)](https://travis-ci.org/JohnGarbutt/data-acc)
+[![Go Report Card](https://goreportcard.com/badge/github.com/johngarbutt/data-acc)](https://goreportcard.com/report/github.com/johngarbutt/data-acc)
 [![Godoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](https://godoc.org/github.com/JohnGarbutt/data-acc/internal/pkg/registry)
 [![Releases](https://img.shields.io/github/release/JohnGarbutt/pfsaccel/all.svg?style=flat-square)](https://github.com/JohnGarbutt/data-acc/releases)
 [![LICENSE](https://img.shields.io/github/license/JohnGarbutt/pfsaccel.svg?style=flat-square)](https://github.com/JohnGarbutt/data-acc/blob/master/LICENSE)
